@@ -10,9 +10,10 @@ In multilingual natural language processing system, there are many challenges in
 areas. This requires some sort of approximate matching algorithms (phonetic or semantic) to improve the recall of information retrieval systems. There are many phonetic algorithms available for English and other European languages, however for many Indian languages like Hindi they do not perform well. Having the matras in Hindi also adds up to the complexities where a small variation in spelling can impact the results heavily.
 
 ## Contributors
+	* Nishant Kumar
 	* Priyam Kumar
 	* Shushant Kumar
-	* Nishant Kumar
+	
 
 ## REFERENCES
 http://waset.org/publications/8664/a-comparison-and-analysis-of-name-matching-algorithms
