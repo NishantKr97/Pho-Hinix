@@ -16,8 +16,8 @@ areas. This requires some sort of approximate matching algorithms (phonetic or s
 	
 
 ## REFERENCES
-http://waset.org/publications/8664/a-comparison-and-analysis-of-name-matching-algorithms
-https://web.stanford.edu/class/cs124/lec/med.
+http://waset.org/publications/8664/a-comparison-and-analysis-of-name-matching-algorithms<br>
+https://web.stanford.edu/class/cs124/lec/med.<br>
 https://findwise.com/blog/things-to-consider-when-implementing-phonetic-search/
 
 
